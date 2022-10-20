@@ -5,22 +5,22 @@ Estimate the Crop Yield using Data Analytics
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-**PROJECT CONTRIBUTORS:**
+**PROJECT CONTRIBUTORS :**
 
 
-1-SASIREKA S
+  1-SASIREKA S
 
-2-NIDHA KAUSER R
+  2-NIDHA KAUSER R
 
-3-NIVEDHA G
+  3-NIVEDHA G
 
-4-POORNISHA V
+  4-POORNISHA V
 
-5-DEEPASRI K
+  5-DEEPASRI K
 
 
 
-**PROJECT OBJECTIVES:**<img src="https://media3.giphy.com/media/BtVpIOi3doaz3RE5w4/giphy.gif?cid=ecf05e47rkw5pzp7hc9nz6ue1646xz5f4s8ucn1gp6omn9d5&rid=giphy.gif&ct=s" width="30px">
+**PROJECT OBJECTIVES :
 
 
 •	To Know fundamental concepts and work on IBM Cognos Analytics.
@@ -29,14 +29,14 @@ Estimate the Crop Yield using Data Analytics
 
 •	Ability to create meaningful dashboards.
 
-**SOLUTION REQUIREMENTS**
+**SOLUTION REQUIREMENTS :**
 
 ![image](https://user-images.githubusercontent.com/111339599/196188706-595bd7ae-39ac-4362-ae9e-154d62be8b74.png)
 
 
 
 
-**PROJECT DESCRIPTION:**
+**PROJECT DESCRIPTION :**
 
 🌱🌾Crop production in India is one of the most important sources of income and India is one of the top countries to produce crops. As per this project we will be analyzing some important visualization, creating a dashboard and by going through these we will get most of the insights of Crop production in India.🌾🌱
 
@@ -49,6 +49,5 @@ Estimate the Crop Yield using Data Analytics
 
 **TECHNICAL ARCHITECTURE:**
 
-By using cognos analytics!
 
 ![image](https://user-images.githubusercontent.com/111339599/195016970-b3192ada-18a0-491f-8296-440914ca0abf.png)
