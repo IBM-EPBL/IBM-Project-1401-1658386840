@@ -2,33 +2,32 @@
 Estimate the Crop Yield using Data Analytics
 ☺
 
-# IBM-Project-17504-1659672666
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 **PROJECT CONTRIBUTORS**
 
 
-1-G K Siranjeevi
+1-SASIREKA S
 
-2-G Harish
+2-NIDHA KAUSER R
 
-3-K Mukesh
+3-NIVEDHA G
 
-4-M Bathrinarayanan
+4-POORNISHA V
 
-5-M Jayakrishnan
+5-DEEPASRI K
 
 
 
 **PROJECT OBJECTIVES:**<img src="https://media3.giphy.com/media/BtVpIOi3doaz3RE5w4/giphy.gif?cid=ecf05e47rkw5pzp7hc9nz6ue1646xz5f4s8ucn1gp6omn9d5&rid=giphy.gif&ct=s" width="30px">
 
 
-•	To Know fundamental concepts and can work on IBM Cognos Analytics.
+•	To Know fundamental concepts and work on IBM Cognos Analytics.
 
-•	Gain a broad understanding of plotting different graphs.
+•	Gain a broad understanding of plotting different types of graphs.
 
-•	Able to create meaningful dashboards
+•	Ability to create meaningful dashboards.
 
 **SOLUTION REQUIREMENTS**
 
