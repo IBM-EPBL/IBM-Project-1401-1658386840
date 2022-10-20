@@ -5,7 +5,7 @@ Estimate the Crop Yield using Data Analytics
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-**PROJECT CONTRIBUTORS**
+**PROJECT CONTRIBUTORS:**
 
 
 1-SASIREKA S
